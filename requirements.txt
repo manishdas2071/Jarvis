@@ -1,0 +1,2 @@
+required libraries are:
+speech_recognition, pyttsx3, datetime, webbrowser, sys, time
