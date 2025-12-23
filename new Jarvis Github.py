@@ -59,12 +59,6 @@ if __name__ == "__main__":
         if 'hey jarvis' in query:
             speak(f"Yes sir I am listening.")
         
-        elif 'hey jarvis' in query:
-            speak(f"Oi Sutmarana khuni asu moi.")
-        
-        elif 'hey bihari' in query:
-            speak(f"Oi Sutmarana, xunni asu moi.")
-        
         elif 'sing mayabini' in query:
             speak(f"Mayabini, ratir, bukut, dekha, palu, tumar, sobi")
 
