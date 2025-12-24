@@ -1,2 +1,4 @@
-required libraries are:
-customtkinter, speech_recognition, pyttsx3, datetime, webbrowser, threading, time, thefuzz, os
+customtkinter
+speech_recognition
+pyttsx3
+thefuzz
